@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drag-drop-example/static/css/main.61140919.chunk.css",
+    "main.js": "/drag-drop-example/static/js/main.066fa13b.chunk.js",
+    "main.js.map": "/drag-drop-example/static/js/main.066fa13b.chunk.js.map",
+    "runtime-main.js": "/drag-drop-example/static/js/runtime-main.e7f47eb1.js",
+    "runtime-main.js.map": "/drag-drop-example/static/js/runtime-main.e7f47eb1.js.map",
+    "static/js/2.06384695.chunk.js": "/drag-drop-example/static/js/2.06384695.chunk.js",
+    "static/js/2.06384695.chunk.js.map": "/drag-drop-example/static/js/2.06384695.chunk.js.map",
+    "index.html": "/drag-drop-example/index.html",
+    "precache-manifest.1f82d69a3fcf8ca7025e6c8ce823e732.js": "/drag-drop-example/precache-manifest.1f82d69a3fcf8ca7025e6c8ce823e732.js",
+    "service-worker.js": "/drag-drop-example/service-worker.js",
+    "static/css/main.61140919.chunk.css.map": "/drag-drop-example/static/css/main.61140919.chunk.css.map",
+    "static/js/2.06384695.chunk.js.LICENSE.txt": "/drag-drop-example/static/js/2.06384695.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/drag-drop-example/static/media/SourceSansPro-Regular.3f482321.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7f47eb1.js",
+    "static/js/2.06384695.chunk.js",
+    "static/css/main.61140919.chunk.css",
+    "static/js/main.066fa13b.chunk.js"
+  ]
+}
